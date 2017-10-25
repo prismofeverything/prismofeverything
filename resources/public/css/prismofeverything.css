@@ -1,0 +1,27 @@
+.prism-over {
+    position: fixed;
+    margin: 0% auto; /* Will not center vertically and won't work in IE6/7. */
+    left: 0;
+    right: 0;
+}
+
+.prism-title {
+    color: #aaaaff;
+    text-align: center;
+    /* width: 64%; */
+    top: 0;
+}
+
+.prism-body {
+    color: #aaffaa;
+    text-align: center;
+    width: 64%;
+    bottom: 0;
+
+    /* position: fixed; */
+    /* width: 64%; */
+    /* margin: 5% auto; /\* Will not center vertically and won't work in IE6/7. *\/ */
+    /* left: 0; */
+    /* right: 0; */
+}
+
